@@ -1,2 +1,2 @@
 # RaylibTemplate
-raylib c++ cmake template
+raylib visual studio c++ cmake template
